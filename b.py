@@ -1,1 +1,1 @@
-asdaf
+print("kkk")
